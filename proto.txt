@@ -1,0 +1,8 @@
+1.get the inputted text, 
+2.store it somewhere 
+3.when the addbutton is clicked Display it on the page
+
+// what is needed in the beginning
+
+reference to the input
+reference to the button
